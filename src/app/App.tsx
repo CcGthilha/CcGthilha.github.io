@@ -114,7 +114,7 @@ const toggleMusic = () => {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-pink-600 via-rose-600 to-red-600 bg-clip-text text-transparent mb-6"
           >
-            Happy Vanlanetine's Day, My Love! 
+            Happy Vanlentine's Day, My Love! 
           </motion.h1>
           <p className='text-5xl md:text-7xl'>💐</p>
           
